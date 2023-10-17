@@ -1,4 +1,4 @@
 <template>
-    <h1>index Page</h1>
+    <h1>about Page</h1>
 </template>
 
