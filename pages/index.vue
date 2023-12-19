@@ -1,6 +1,6 @@
 <template>
 <div class="container text-center my-5">
-<h1>TOYOTA</h1>
+<h1>世界の車</h1>
 </div>
 <div class="card mb-3 mx-auto">
 <div class="row g-0">
@@ -15,45 +15,41 @@
 </div>
 </div>
 </div>
-<div class="container mb-5">
-<h1>セダン</h1>
+<div class="container mb-5"></div>
+<h1>世界一高い車</h1>
 <div class="container mb-5">
 <div class="row gx-5">
 <div class="col-sm">
 </div>
 </div>
 </div>
-</div>
-<h2>CROWN</h2>
+<h2>メルセデスベンツ 300slr ウーレンハウトクーペ</h2>
 <img
-            src="https://toyota.jp/pages/contents/top/image/pr_area/crown/crown_pc_1.jpg"
+            src="https://kurukura.jp/media2020/3674-mercedes-benz-300SLR-uhlenhaut-coupes-top.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
 <div class="mb-2"><span class="badge bg-secondary">1</span></div>
-<p>FCEVという新たな選択肢を加え、
-ニューフォーマルに進化したクラウン。</p>
+<p>1億3500万ユーロ（180億円超）で落札</p>
 </div>
 </div>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
         <div class="mb-2"><span class="badge bg-secondary">2</span></div>
-<p>威厳と風格を備えた、美しい佇まい。
-室内にひろがるおもてなし空間。
-優雅で心地良い走り。</p>
+<p>"SLR"はドイツ語でSport, Leicht, Rennwagen（スポーツ・軽量・レーシングカー）をあらわす</p>
 </div>
 </div>
 <div class="container mb-5"></div>
-<h1>センチュリー</h1>
+<h1>日本で高い車</h1>
 <div class="container mb-5">
 <div class="row gx-5">
 <div class="col-sm">
 </div>
 </div>
 </div>
-<h2>CENTURY</h2>
+<h2>レクサスLFA</h2>
 <img
-            src="https://toyota.jp/pages/contents/top/image/pr_area/centurynewbt/century_pc_1.jpg"
+            src="https://car-moby-cdn.com/article/wp-content/uploads/2021/03/09140345/lexus_lfa_2010_front_side_image-1000x667.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
