@@ -1,6 +1,6 @@
 <template>
 <div class="container text-center my-5">
-<h1>世界の車</h1>
+<h1>世界と日本の車</h1>
 </div>
 <div class="card mb-3 mx-auto">
 <div class="row g-0">
@@ -16,7 +16,7 @@
 </div>
 </div>
 <div class="container mb-5"></div>
-<h1>世界一高い車</h1>
+<h1>世界で一番値段が高い車</h1>
 <div class="container mb-5">
 <div class="row gx-5">
 <div class="col-sm">
@@ -30,7 +30,7 @@
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
 <div class="mb-2"><span class="badge bg-secondary">1</span></div>
-<p>1億3500万ユーロ（180億円超）で落札</p>
+<p>オークションで1億3500万ユーロ（約213億1000万円）という破格の値段で落札された</p>
 </div>
 </div>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
@@ -40,7 +40,7 @@
 </div>
 </div>
 <div class="container mb-5"></div>
-<h1>日本で高い車</h1>
+<h1>日本で一番値段が高い車</h1>
 <div class="container mb-5">
 <div class="row gx-5">
 <div class="col-sm">
@@ -54,31 +54,27 @@
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
         <div class="mb-2"><span class="badge bg-secondary">1</span></div>
-<p>独自の美意識や思想を継承・進化。
-後席空間に新しい価値を創造した、
-ショーファーカーのもう一つの理想。</p>
+<p>価格は3750万円（ニュルブルクリンクパッケージは約4500万円）</p>
 </div>
 </div>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
         <div class="mb-2"><span class="badge bg-secondary">2</span></div>
-<p>日本の美、匠の技、唯一無二の存在感
-より有意義な移動時間を提供する後席
-著しい進化を遂げた静けさと乗り心地
+<p>最高速度は320km/h
 </p>
 </div>
 </div>
 <div class="container mb-5"></div>
-<h1>ミニバン</h1>
+<h1>日本で一番売れた車（2023年）</h1>
 <div class="container mb-5">
 <div class="row gx-5">
 <div class="col-sm">
 </div>
 </div>
 </div>
-<h3>VELLFIRE</h3>
+<h3>登録車で１位はトヨタ「ヤリス」</h3>
 <img
-            src="https://toyota.jp/pages/contents/top/image/pr_area/vellfire/vellfire_pc_1.jpg"
+            src="https://toyota.jp/pages/contents/yaris/001_p_001/4.0/image/car-viewer/53_1_16/53_1_16_030_c.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
@@ -99,9 +95,9 @@
 </div>
 </div>
 <div class="container mb-5"></div>
-<h3>ALPHARD</h3>
+<h3>軽四輪車で１位はホンダ「N-BOX」</h3>
 <img
-            src="https://toyota.jp/pages/contents/top/image/pr_area/alphard/alphard_pc_1.jpg"
+            src="https://tjniigata.jp/assets/uploads/2022/01/NBOX-760x503.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
