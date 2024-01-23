@@ -4,15 +4,6 @@
 </div>
 <div class="card mb-3 mx-auto">
 <div class="row g-0">
-<div class="col-md-4">
-<div class="col-sm">
-<div class="container mb-5">
-<div class="container text-center my-5">
-<h3>最新の車(セダン、センチュリー、ミニバン)</h3>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 <div class="container mb-5"></div>
@@ -25,7 +16,7 @@
 </div>
 <h2>メルセデスベンツ 300slr ウーレンハウトクーペ</h2>
 <img
-            src="https://kurukura.jp/media2020/3674-mercedes-benz-300SLR-uhlenhaut-coupes-top.jpg"
+            src="https://preview.free3d.com/img/2018/11/2399374330313049397/jafz01by.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
@@ -49,7 +40,7 @@
 </div>
 <h2>レクサスLFA</h2>
 <img
-            src="https://car-moby-cdn.com/article/wp-content/uploads/2021/03/09140345/lexus_lfa_2010_front_side_image-1000x667.jpg"
+            src="https://img.amiami.jp/images/product/main/231/TOY-SCL3-53269.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
@@ -74,23 +65,19 @@
 </div>
 <h3>登録車で１位はトヨタ「ヤリス」</h3>
 <img
-            src="https://toyota.jp/pages/contents/yaris/001_p_001/4.0/image/car-viewer/53_1_16/53_1_16_030_c.jpg"
+            src="https://www.weins-toyota-kanagawa.co.jp/file/cms/13701/3124628/image.jpg"
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
         <div class="mb-2"><span class="badge bg-secondary">1</span></div>
-<p>毎日の移動を、アグレシッブに。
-圧倒的な力強さと極上の快適さに
-心が昂ぶる、大空間サルーン。
+<p>販売台数19万4364台
 </P>
 </div>
 </div>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
         <div class="mb-2"><span class="badge bg-secondary">2</span></div>
-<p>力強さと心地よさを両立した動的性能
-移動の快適さを極めた後席空間
-周囲を圧倒するエクステリアデザイン
+<p>2020年から4年連続でトップ
 </p>
 </div>
 </div>
@@ -102,18 +89,14 @@
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
 <div class="mb-2"><span class="badge bg-secondary">1</span></div>
-<p>一歩先へ進化を遂げた究極のもてなし空間。
-隅々に行き渡る快適さが、
-あらゆる移動をくつろぎに変えていく。
+<p>販売台数23万1385台
 </p>
 </div>
 </div>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
 <div class="mb-2"><span class="badge bg-secondary">2</span></div>
-<p>おもてなし装備に満ちた後席空間
-上質を磨き上げたエクステリアデザイン
-大切な人を守り抜く安全性能
+<p>ホンダ「N-BOX」が唯一20万台超えの販売台数を記録して1位となった
 </p>
 </div>
 </div>
