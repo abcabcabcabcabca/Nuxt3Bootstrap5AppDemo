@@ -6,9 +6,11 @@
 <div class="row g-0">
 </div>
 </div>
-<div class="container mb-5"></div>
+<div class="container mb-6"></div>
+<div class="col-md-6">
+<div class="row g-0">
 <h1>世界で一番値段が高い車</h1>
-<div class="container mb-5">
+<div class="container mb-6">
 <div class="row gx-5">
 <div class="col-sm">
 </div>
@@ -20,19 +22,21 @@
             class="img-fluid rounded-start" alt="...">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 <div class="col border p-2">
-<div class="mb-2"><span class="badge bg-secondary">1</span></div>
+<div class="mb-6"><span class="badge bg-secondary">1</span></div>
 <p>オークションで1億3500万ユーロ（約213億1000万円）という破格の値段で落札された</p>
 </div>
 </div>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
       <div class="col border p-2">
-        <div class="mb-2"><span class="badge bg-secondary">2</span></div>
+        <div class="mb-6"><span class="badge bg-secondary">2</span></div>
 <p>"SLR"はドイツ語でSport, Leicht, Rennwagen（スポーツ・軽量・レーシングカー）をあらわす</p>
 </div>
 </div>
-<div class="container mb-5"></div>
+<div class="container mb-6"></div>
+</div>
+</div>
 <h1>日本で一番値段が高い車</h1>
-<div class="container mb-5">
+<div class="container mb-6">
 <div class="row gx-5">
 <div class="col-sm">
 </div>
